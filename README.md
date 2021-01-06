@@ -2,7 +2,7 @@
 
 React Native wrapper for Bloben Calendar hosted at https://calendar.bloben.com to use some native features like access to biometrics, device keychain and automatic calendar imports from .ics files.
 
-To be done is to find a way, how to server React App from app storage rather than loading it from the server.  
+To be done is to find a way, how to server React App from app storage rather than loading it from the server. Source code for core web application is here https://github.com/nibdo/bloben-calendar
 
 App is supported only for Android, but you can still use web version on Apple devices.
 
