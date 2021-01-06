@@ -6,6 +6,10 @@ To be done is to find a way, how to server React App from app storage rather tha
 
 App is supported only for Android, but you can still use web version on Apple devices.
 
+**How to use**
+
+Add custom F-Droid repository https://nibdo.com/fdroid/repo 
+
 **React Native setup**
 1. create local.properties file inside ./android folder with path to your Android SDK \
    "sdk.dir = /****"
